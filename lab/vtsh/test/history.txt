@@ -1,0 +1,104 @@
+touch ./foo
+rm ./foo
+cat /sys/proc/foo/bar
+foobar
+echo hello
+echo world
+touch ./bar
+cat ./bar
+wc -c bar
+rm ./bar
+./shell
+echo hi
+./shell
+echo hello
+echo hello
+ echo    hello  world
+touch ./foo
+rm ./foo
+cat /sys/proc/foo/bar
+foobar
+echo hello
+echo world
+touch ./bar
+cat ./bar
+wc -c bar
+rm ./bar
+./shell
+echo hi
+./shell
+echo hello
+echo hello
+echo world
+touch ./test_seq
+wc -c ./test_seq
+rm ./test_seq
+echo first
+foobar
+echo second
+echo hello
+ echo    hello  world
+echo hello
+echo world
+echo first
+foobar
+echo second
+touch ./test_seq
+wc -c ./test_seq
+rm ./test_seq
+touch ./foo
+rm ./foo
+cat /sys/proc/foo/bar
+foobar
+echo hello
+echo world
+touch ./bar
+cat ./bar
+wc -c bar
+rm ./bar
+./shell
+echo hi
+./shell
+echo hello
+echo hello
+echo world
+touch ./test_seq
+wc -c ./test_seq
+rm ./test_seq
+echo first
+foobar
+echo second
+echo hello
+ echo    hello  world
+touch ./foo
+rm ./foo
+cat /sys/proc/foo/bar
+foobar
+echo hello
+echo world
+touch ./bar
+cat ./bar
+wc -c bar
+rm ./bar
+./shell
+echo hi
+./shell
+echo hello
+echo hello
+ echo    hello  world
+touch ./foo
+rm ./foo
+cat /sys/proc/foo/bar
+foobar
+echo hello
+echo world
+touch ./bar
+cat ./bar
+wc -c bar
+rm ./bar
+./shell
+echo hi
+./shell
+echo hello
+echo hello
+ echo    hello  world
