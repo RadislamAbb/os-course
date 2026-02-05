@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/Users/bogbond/Downloads/my-lab/lab/vtsh/cmake-build-debug",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -I/Users/bogbond/Downloads/my-lab/lab/vtsh/bin/. -I/Users/bogbond/Downloads/my-lab/lab/vtsh/lib/. -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -fcolor-diagnostics -o bin/CMakeFiles/vtsh.dir/main.c.o -c /Users/bogbond/Downloads/my-lab/lab/vtsh/bin/main.c",
+  "file": "/Users/bogbond/Downloads/my-lab/lab/vtsh/bin/main.c",
+  "output": "bin/CMakeFiles/vtsh.dir/main.c.o"
+},
+{
+  "directory": "/Users/bogbond/Downloads/my-lab/lab/vtsh/cmake-build-debug",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -I/Users/bogbond/Downloads/my-lab/lab/vtsh/lib/. -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -fcolor-diagnostics -o lib/CMakeFiles/libvtsh.dir/vtsh.c.o -c /Users/bogbond/Downloads/my-lab/lab/vtsh/lib/vtsh.c",
+  "file": "/Users/bogbond/Downloads/my-lab/lab/vtsh/lib/vtsh.c",
+  "output": "lib/CMakeFiles/libvtsh.dir/vtsh.c.o"
+}
+]
